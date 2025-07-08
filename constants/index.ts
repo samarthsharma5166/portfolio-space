@@ -298,12 +298,13 @@ export const ProjectsData = [
     title: "Space Themed Website",
     description:
       "A futuristic & responsive portfolio built with Next.js & Tailwind CSS & Framer Motion. Features a dark space theme & smooth animations & showcases my projects & skills with a modern interactive design.",
-    url: "https://porfolio.samarthsharma.xyz",
+    url: "https://portfolio.samarthsharma.xyz/",
   },
   {
     src: "/vlogify.png",
     title: "📝 Vlogify &mdash; Full-Stack Blogging Platform",
-    description:"A full-stack blogging platform built with the MERN stack. Includes an admin dashboard with full blog & comment CRUD, rich text editor, like/dislike features, and responsive UI.",
-    url: "https://vlogify.samarthsharma.xyz",
+    description:
+      "A full-stack blogging platform built with the MERN stack. Includes an admin dashboard with full blog & comment CRUD, rich text editor, like/dislike features, and responsive UI.",
+    url: "https://vlogify.samarthsharma.xyz/",
   },
 ];
