@@ -38,7 +38,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <meta name="4740e919a58c50b98cb4cd02244a515ce471e90d" content="4740e919a58c50b98cb4cd02244a515ce471e90d" />
+      <head>
+        <meta name="4740e919a58c50b98cb4cd02244a515ce471e90d" content="4740e919a58c50b98cb4cd02244a515ce471e90d" />
+      </head>
       <body
         className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}
       >
